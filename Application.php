@@ -13,7 +13,7 @@
     };
     class Application{
         const DEFAULT = "Home";
-
+ 
         public function executar(){
 
             if(isset($_GET['url'])){

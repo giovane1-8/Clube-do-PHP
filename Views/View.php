@@ -33,7 +33,7 @@ class View
     }
     function modalSucessoPadrao()
     {
-
+ 
         echo "
             
         <script>

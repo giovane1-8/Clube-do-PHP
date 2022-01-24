@@ -7,3 +7,4 @@ RewriteRule ^(.*)$ index.php?url=$1 [QSA,L]
 ErrorDocument 403 http:///192.168.15.11
 
 Options -Indexes
+ 
